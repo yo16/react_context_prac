@@ -1,8 +1,9 @@
-function App() {
+import { MyCompo1 } from "./components/MyCompo1";
 
+function App() {
     return (
         <>
-            app
+            <MyCompo1 />
         </>
     )
 }
