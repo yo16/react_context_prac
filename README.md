@@ -1,0 +1,2 @@
+# react_context_prac
+Reactのcontextの練習、ReadOnlyなのかの確認
